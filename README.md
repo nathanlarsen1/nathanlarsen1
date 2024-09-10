@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nathan! <br/><a href="https://github.com/nathanlarsen1">Programmer</a> and <a href="https://www.linkedin.com/in/nathan-larsen-49671a82/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Software Development Projects:</h2>
 
 - <b>AutoIT</b>
   - [Send Magic Packet via PuTTY and Establish RDP Session](https://github.com/nathanlarsen11/Algorithms-Practice)
