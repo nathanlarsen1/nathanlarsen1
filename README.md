@@ -8,7 +8,7 @@
   - [Map Network Drives](https://github.com/nathanlarsen1/MapNetworkDrives)
   - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/GetDellServiceTag)
   - [Display Mouse Position](https://github.com/nathanlarsen1/DisplayMousePosition)
-- <b>PowerShell</b>
+
 
 - <b>Bash</b>
   - [Backup Ubuntu Server Full](https://github.com/nathanlarsen1/BackupUbuntuServerFull)
@@ -16,7 +16,6 @@
   - [Plex Updater on Ubuntu Linux Server](https://github.com/nathanlarsen1/PlexUpdater)
   - [Backup UniFi Controller on Ubuntu Linux to Windows Share](https://github.com/nathanlarsen1/BackupUniFiController)
 
-- <b>Python</b>
 
 <h2>Cybersecurity Projects:</h2>
 
