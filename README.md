@@ -4,23 +4,23 @@
 
 - <b>AutoIT</b>
   - [Send Magic Packet via PuTTY and Establish RDP Session](https://github.com/nathanlarsen1/SendMagicPacketRDPSession)
-  - [Rebuild Outlook Autocomplete Address List](https://github.com/nathanlarsen11/RebuildOutlookAutocompleteAddressList)
-  - [Map Network Drives with Alternate Credentials](https://github.com/nathanlarsen11/Algorithms-Practice)
-  - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen11/Algorithms-Practice)
-  - [Display Mouse Position](https://github.com/nathanlarsen11/Algorithms-Practice)
+  - [Rebuild Outlook Autocomplete Address List](https://github.com/nathanlarsen1/RebuildOutlookAutocompleteAddressList)
+  - [Map Network Drives with Alternate Credentials](https://github.com/nathanlarsen1/Algorithms-Practice)
+  - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/Algorithms-Practice)
+  - [Display Mouse Position](https://github.com/nathanlarsen1/Algorithms-Practice)
 - <b>Visual Basic Scripting</b>
-  - [Rebuild Outlook Autocomplete Cache](https://github.com/nathanlarsen11/4chan-Image-Analysis-Middleware-C964)
+  - [Rebuild Outlook Autocomplete Cache](https://github.com/nathanlarsen1/4chan-Image-Analysis-Middleware-C964)
 - <b>PowerShell</b>
-  - [Send Magic Packet and Establish RDP Session](https://github.com/nathanlarsen11/Sentinel-Lab)
-  - [Send WOL Magic Packet](https://github.com/nathanlarsen11/Jwipe.PowerShell)
-  - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen11/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/nathanlarsen11/PowerShell-Integrity-FIM)
+  - [Send Magic Packet and Establish RDP Session](https://github.com/nathanlarsen1/Sentinel-Lab)
+  - [Send WOL Magic Packet](https://github.com/nathanlarsen1/Jwipe.PowerShell)
+  - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/nathanlarsen1/PowerShell-Integrity-FIM)
 - <b>Bash</b>
-  - [Backup Ubuntu Server Full](https://github.com/nathanlarsen11/EncrypterPOC)
-  - [Backup Ubuntu Server_Data](https://github.com/nathanlarsen11/DecrypterPOC)
-  - [Plex Updater](https://github.com/nathanlarsen11/Key-Logger-With-Email)
+  - [Backup Ubuntu Server Full](https://github.com/nathanlarsen1/EncrypterPOC)
+  - [Backup Ubuntu Server_Data](https://github.com/nathanlarsen1/DecrypterPOC)
+  - [Plex Updater](https://github.com/nathanlarsen1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/nathanlarsen11/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/nathanlarsen1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> Certifications:</h2>
 
