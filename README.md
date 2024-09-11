@@ -6,7 +6,7 @@
   - [Send Magic Packet and Establish RDP Session](https://github.com/nathanlarsen1/SendMagicPacketRDPSession)
   - [Rebuild Outlook Autocomplete Address List](https://github.com/nathanlarsen1/RebuildOutlookAutocompleteAddressList)
   - [Map Network Drives](https://github.com/nathanlarsen1/MapNetworkDrives)
-  - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/GetDellServiceTag1)
+  - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/GetDellServiceTag)
   - [Display Mouse Position](https://github.com/nathanlarsen1/DisplayMousePosition)
 - <b>PowerShell</b>
   - [Send Magic Packet and Establish RDP Session](https://github.com/nathanlarsen1/Sentinel-Lab)
