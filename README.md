@@ -5,7 +5,7 @@
 - <b>AutoIT</b>
   - [Send Magic Packet via PuTTY and Establish RDP Session](https://github.com/nathanlarsen1/SendMagicPacketRDPSession)
   - [Rebuild Outlook Autocomplete Address List](https://github.com/nathanlarsen1/RebuildOutlookAutocompleteAddressList)
-  - [Map Network Drives with Alternate Credentials](https://github.com/nathanlarsen1/Algorithms-Practice)
+  - [Map Network Drives with Alternate Credentials](https://github.com/nathanlarsen1/MapNetworkDrives)
   - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/Algorithms-Practice)
   - [Display Mouse Position](https://github.com/nathanlarsen1/Algorithms-Practice)
 - <b>Visual Basic Scripting</b>
