@@ -6,14 +6,14 @@
   - [Send Magic Packet via PuTTY and Establish RDP Session](https://github.com/nathanlarsen1/SendMagicPacketRDPSession)
   - [Rebuild Outlook Autocomplete Address List](https://github.com/nathanlarsen1/RebuildOutlookAutocompleteAddressList)
   - [Map Network Drives](https://github.com/nathanlarsen1/MapNetworkDrives)
-  - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/Algorithms-Practice)
+  - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/GetDellServiceTag1)
   - [Display Mouse Position](https://github.com/nathanlarsen1/Algorithms-Practice)
 - <b>Visual Basic Scripting</b>
   - [Rebuild Outlook Autocomplete Cache](https://github.com/nathanlarsen1/4chan-Image-Analysis-Middleware-C964)
 - <b>PowerShell</b>
   - [Send Magic Packet and Establish RDP Session](https://github.com/nathanlarsen1/Sentinel-Lab)
   - [Send WOL Magic Packet](https://github.com/nathanlarsen1/Jwipe.PowerShell)
-  - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/AD_PS)
+  - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/GetDellServiceTag2)
   - [FIM (File Integrity Monitor)](https://github.com/nathanlarsen1/PowerShell-Integrity-FIM)
 - <b>Bash</b>
   - [Backup Ubuntu Server Full](https://github.com/nathanlarsen1/EncrypterPOC)
