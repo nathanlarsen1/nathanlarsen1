@@ -7,7 +7,7 @@
   - [Rebuild Outlook Autocomplete Address List](https://github.com/nathanlarsen1/RebuildOutlookAutocompleteAddressList)
   - [Map Network Drives](https://github.com/nathanlarsen1/MapNetworkDrives)
   - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/GetDellServiceTag1)
-  - [Display Mouse Position](https://github.com/nathanlarsen1/Algorithms-Practice)
+  - [Display Mouse Position](https://github.com/nathanlarsen1/DisplayMousePosition)
 - <b>PowerShell</b>
   - [Send Magic Packet and Establish RDP Session](https://github.com/nathanlarsen1/Sentinel-Lab)
   - [Send WOL Magic Packet](https://github.com/nathanlarsen1/Jwipe.PowerShell)
