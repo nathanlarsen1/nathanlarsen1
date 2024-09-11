@@ -3,7 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>AutoIT</b>
-  - [Send Magic Packet via PuTTY and Establish RDP Session](https://github.com/nathanlarsen1/SendMagicPacketRDPSession)
+  - [Send Magic Packet and Establish RDP Session](https://github.com/nathanlarsen1/SendMagicPacketRDPSession)
   - [Rebuild Outlook Autocomplete Address List](https://github.com/nathanlarsen1/RebuildOutlookAutocompleteAddressList)
   - [Map Network Drives](https://github.com/nathanlarsen1/MapNetworkDrives)
   - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/GetDellServiceTag1)
