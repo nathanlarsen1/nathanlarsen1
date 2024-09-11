@@ -19,6 +19,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
+- <b>SQL</b>
   - [Apply filters to SQL queries](https://github.com/nathanlarsen1/ApplyfilterstoSQLqueries)
 
 
