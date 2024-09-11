@@ -15,7 +15,7 @@
   - [Backup Ubuntu Server_Data](https://github.com/nathanlarsen1/DecrypterPOC)
   - [Plex Updater](https://github.com/nathanlarsen1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/nathanlarsen1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2> Certifications:</h2>
 
