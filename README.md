@@ -9,10 +9,7 @@
   - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/GetDellServiceTag)
   - [Display Mouse Position](https://github.com/nathanlarsen1/DisplayMousePosition)
 - <b>PowerShell</b>
-  - [Send Magic Packet and Establish RDP Session](https://github.com/nathanlarsen1/Sentinel-Lab)
-  - [Send WOL Magic Packet](https://github.com/nathanlarsen1/Jwipe.PowerShell)
-  - [Get Dell Service Tag and Express Service Code](https://github.com/nathanlarsen1/GetDellServiceTag2)
-  - [FIM (File Integrity Monitor)](https://github.com/nathanlarsen1/PowerShell-Integrity-FIM)
+
 - <b>Bash</b>
   - [Backup Ubuntu Server Full](https://github.com/nathanlarsen1/EncrypterPOC)
   - [Backup Ubuntu Server_Data](https://github.com/nathanlarsen1/DecrypterPOC)
