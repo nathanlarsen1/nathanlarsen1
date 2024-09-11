@@ -11,9 +11,11 @@
 - <b>PowerShell</b>
 
 - <b>Bash</b>
-  - [Backup Ubuntu Server Full](https://github.com/nathanlarsen1/EncrypterPOC)
-  - [Backup Ubuntu Server_Data](https://github.com/nathanlarsen1/DecrypterPOC)
-  - [Plex Updater](https://github.com/nathanlarsen1/Key-Logger-With-Email)
+  - [Backup Ubuntu Server Full](https://github.com/nathanlarsen1/BackupUbuntuServerFull)
+  - [Backup Ubuntu Server Data](https://github.com/nathanlarsen1/BackupUbuntuServerData)
+  - [Plex Updater](https://github.com/nathanlarsen1/PlexUpdater)
+  - [Backup UniFi Controller on Ubuntu Linux to Windows Share](https://github.com/nathanlarsen1/BackupUniFiController)
+
 - <b>Python</b>
 
 
