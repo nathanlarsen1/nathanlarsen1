@@ -20,7 +20,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Algorithm for file updates in Python](https://github.com/nathanlarsen1/AlgorithmforfileupdatesinPython)
+  - [Algorithm for File Updates in Python](https://github.com/nathanlarsen1/AlgorithmforfileupdatesinPython)
   
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://github.com/nathanlarsen1/ApplyfilterstoSQLqueries)
