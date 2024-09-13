@@ -22,7 +22,7 @@
 - <b>Command Prompt</b>
   - [Wiping a drive using the Diskpart utility in the Windows Command Prompt](https://github.com/nathanlarsen1/WipingDriveDiskpartWindows)
  
-  - <b>Hashing</b>
+ - <b>Hashing</b>
   - [Investigate Suspicious File Hash using VirusTotal Website](https://github.com/nathanlarsen1/InvestigateSuspiciousFileHash)
 
 - <b>Python</b>
