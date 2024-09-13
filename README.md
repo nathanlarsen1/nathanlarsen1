@@ -20,7 +20,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Command Prompt</b>
-  - [Wiping Drive using Diskpart with Command Prompt in Windows](https://github.com/nathanlarsen1/WipingDriveDiskpartWindows)
+  - [Wiping a drive using the Diskpart utility in the Windows Command Prompt](https://github.com/nathanlarsen1/WipingDriveDiskpartWindows)
 
 - <b>Python</b>
   - [Algorithm for File Updates in Python](https://github.com/nathanlarsen1/AlgorithmforfileupdatesinPython)
