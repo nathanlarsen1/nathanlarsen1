@@ -34,6 +34,9 @@
 - <b>Research</b>
   - [The Recovery Process within the NIST Incident Response Lifecycle](https://github.com/nathanlarsen1/RecoveryProcessNISTIncidentResponseLifecycle)
 
+- <b>SIEM</b>
+  - [Investigating Incidents with Splunk](https://github.com/nathanlarsen1/InvestigatingIncidentsSplunk)
+  
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://github.com/nathanlarsen1/ApplyfilterstoSQLqueries)
 
